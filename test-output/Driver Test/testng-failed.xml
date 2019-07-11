@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Driver Test]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="driver.DriverTests">
+        <methods>
+          <include name="DriverNataionality"/>
+        </methods>
+      </class> <!-- driver.DriverTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Driver Test] -->

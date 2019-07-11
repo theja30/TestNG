@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3739" started-at="2019-07-11T11:24:36Z" finished-at="2019-07-11T11:24:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3739" started-at="2019-07-11T11:24:36Z" finished-at="2019-07-11T11:24:40Z">
+      <class name="driver.DriverTests">
+        <test-method status="PASS" signature="CompleteTest()[pri:0, instance:driver.DriverTests@4520ebad]" name="CompleteTest" duration-ms="3709" started-at="2019-07-11T12:24:36Z" finished-at="2019-07-11T12:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteTest -->
+      </class> <!-- driver.DriverTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
